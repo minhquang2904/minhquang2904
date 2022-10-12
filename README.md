@@ -7,7 +7,7 @@
 <b>Technologies and Tools</b>
 <img src="images/innovative.png" width="20" align="center"/>
 </h3>
-<!-- <hr></hr> -->
+<hr></hr>
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
@@ -59,7 +59,7 @@
 <br>
 <h3 align="center">🔥 GitHub Stats 🔥</h3>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<!-- <hr></hr> -->
+<hr></hr>
 <div align=center>
   <a href="#" title="minhquangdev">
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhquang2904&layout=compact&show_icons=true&theme=calm&border_color=61dafb&hide_border=true&langs_count=10"/>
