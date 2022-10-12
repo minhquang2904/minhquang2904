@@ -71,8 +71,8 @@
   <!-- <a href="#" title="minhquangdev">
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhquang2904&layout=compact&show_icons=true&theme=react&border_color=61dafb&hide_border=true&langs_count=10"/>
   </a> -->
-   <a href="#" title="minhquangdev">
-    <img align="center" width="100%" src="https://streak-stats.demolab.com/?user=minhquang2904&theme=nord&hide_border=true"/>
+  <a href="#" title="minhquangdev">
+    <img align="center" width="100%" src="https://streak-stats.demolab.com/?user=minhquang2904&theme=nord&hide_border=true&ring=F37626"/>
   </a>
 </div>
 <br>
