@@ -2,7 +2,9 @@
 <a href="#" target="_blank">
   <img src="svg/minhquangdev.svg" width="1200" alt="minhquangdev" />
 </a>
-<h3 align="center">🛠Technologies and Tools🛠</h3>
+<h3 align="center">
+<img src="images/computer.png" width="20" align="center"/>
+Technologies and Tools🛠</h3>
 <hr></hr>
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
