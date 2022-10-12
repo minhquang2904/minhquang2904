@@ -71,8 +71,8 @@
     <a href="#" title="minhquangdev">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=minhquang2904&show_icons=true&theme=react&border_color=61dafb&hide_border=true"/>
   </a>
-  <br>
-  <a href="#" title="minhquangdev">
-    <img align="center" width="100%" src="https://streak-stats.demolab.com/?user=minhquang2904&theme=nord&hide_border=true&ring=F37626"/>
-  </a>
 </div>
+<br>
+<a href="#" title="minhquangdev">
+  <img align="center" width="100%" src="https://streak-stats.demolab.com/?user=minhquang2904&theme=nord&hide_border=true&background=20232a"/>
+</a>
