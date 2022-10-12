@@ -59,7 +59,7 @@
 <br>
 <h3 align="center">
 
-<img src="images/stats.png" width="20" align="center"/>
+<img src="images/giphy.gif" width="20" align="center"/>
 <b>GitHub Stats</b>
 <img src="images/pie-chart.png" width="20" align="center"/>
 </h3>
