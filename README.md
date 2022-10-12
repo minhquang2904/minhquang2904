@@ -2,7 +2,7 @@
 <a href="#" target="_blank">
   <img src="svg/minhquangdev.svg" width="1200" alt="minhquangdev" />
 </a>
-<h3 align="center">🛠 Technologies and Tools 🛠</h3>
+<h3 align="center">🛠<strong>Technologies and Tools</strong>🛠</h3>
 <hr></hr>
 <br>
 <!-- https://simpleicons.org/ -->
