@@ -57,7 +57,12 @@
 &nbsp;
 
 <br>
-<h3 align="center">🔥 GitHub Stats 🔥</h3>
+<h3 align="center">
+
+<img src="images/stats.png" width="20" align="center"/>
+<b>GitHub Stats</b>
+<img src="images/pie-chart.png" width="20" align="center"/>
+</h3>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <hr></hr>
 <div align=center>
