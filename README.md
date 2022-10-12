@@ -57,14 +57,14 @@
 &nbsp;
 
 <br>
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
+<h3 align="center">🔥 GitHub Stats 🔥</h3>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<br>
+<hr></hr>
 <div align=center>
   <a href="#" title="minhquangdev">
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhquang2904&layout=compact&show_icons=true&theme=calm&border_color=61dafb&hide_border=true&langs_count=10"/>
   </a>
   <a href="#" title="minhquangdev">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=minhquang2904&show_icons=true&theme=calm&border_color=61dafb&hide_border=true" />
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=minhquang2904&show_icons=true&theme=calm&border_color=61dafb&hide_border=true"/>
   </a>
 </div>
