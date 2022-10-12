@@ -66,13 +66,12 @@
 <hr></hr>
 <div align=center>
   <a href="#" title="minhquangdev">
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api/pin/?username=minhquang2904&repo=minhquang2904&show_owner=true&theme=react&hide_border=true"/>
+  </a>
+  <a href="#" title="minhquangdev">
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhquang2904&layout=compact&show_icons=true&theme=react&border_color=61dafb&hide_border=true&langs_count=10"/>
   </a>
   <a href="#" title="minhquangdev">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=minhquang2904&show_icons=true&theme=react&border_color=61dafb&hide_border=true"/>
   </a>
-  <a href="#" title="minhquangdev">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api/pin/?username=minhquang2904&repo=minhquang2904&show_owner=true&theme=react&hide_border=true"/>
-  </a>
-  
 </div>
