@@ -36,3 +36,11 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/XAMPP-282C34?logo=XAMPP&logoColor=FB7A24" alt="XAMPP logo" title="XAMPP" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Heroku-282C34?logo=Heroku&logoColor=430098" alt="Heroku logo" title="Heroku" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/npm-282C34?logo=npm&logoColor=CB3837" alt="npm logo" title="npm" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Microsoft SQL Server-282C34?logo=Microsoft SQL Server&logoColor=CC2927" alt="Microsoft SQL Server logo" title="Microsoft SQL Server" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Sublime Text-282C34?logo=Sublime Text&logoColor=FF9800" alt="Sublime Text logo" title="Sublime Text" height="25" /></span>
+&nbsp;
