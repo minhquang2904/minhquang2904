@@ -48,3 +48,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/phpMyAdmin-282C34?logo=phpMyAdmin&logoColor=6C78AF" alt="phpMyAdmin logo" title="phpMyAdmin" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Google Colab-282C34?logo=Google Colab&logoColor=F9AB00" alt="Google Colab logo" title="Google Colab" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Jupyter-282C34?logo=Jupyter&logoColor=F37626" alt="Jupyter logo" title="Jupyter" height="25" /></span>
+&nbsp;
