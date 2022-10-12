@@ -71,4 +71,8 @@
   <a href="#" title="minhquangdev">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=minhquang2904&show_icons=true&theme=react&border_color=61dafb&hide_border=true"/>
   </a>
+  <a href="#" title="minhquangdev">
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api/pin/?username=minhquang2904&repo=minhquang2904&show_owner=true&theme=react&hide_border=true"/>
+  </a>
+  
 </div>
