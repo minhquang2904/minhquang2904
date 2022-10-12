@@ -24,6 +24,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/PHP-282C34?logo=PHP&logoColor=777BB4" alt="PHP logo" title="PHP" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
@@ -43,4 +45,6 @@
 <span><img src="https://img.shields.io/badge/Microsoft SQL Server-282C34?logo=Microsoft SQL Server&logoColor=CC2927" alt="Microsoft SQL Server logo" title="Microsoft SQL Server" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Sublime Text-282C34?logo=Sublime Text&logoColor=FF9800" alt="Sublime Text logo" title="Sublime Text" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/phpMyAdmin-282C34?logo=phpMyAdmin&logoColor=6C78AF" alt="phpMyAdmin logo" title="phpMyAdmin" height="25" /></span>
 &nbsp;
