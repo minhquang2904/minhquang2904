@@ -3,7 +3,7 @@
   <img src="svg/minhquangdev.svg" width="1200" alt="minhquangdev" />
 </a>
 
-<h2 align="center" border="21px solid #CCC">🛠 Technologies and Tools 🛠</h2>
+<h2 align="center" border="0px">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
