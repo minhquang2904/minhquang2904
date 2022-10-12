@@ -3,7 +3,7 @@
   <img src="svg/minhquangdev.svg" width="1200" alt="minhquangdev" />
 </a>
 <h3 align="center">
-<img src="images/computer.png" width="20" align="center"/>
+<img src="images/innovative.png" width="20" align="center"/>
 <b>Technologies and Tools</b>
 <img src="images/innovative.png" width="20" align="center"/>
 </h3>
