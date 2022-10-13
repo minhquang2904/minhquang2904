@@ -84,5 +84,10 @@
 </div>
 
 <br>
-<h3 align="center">👽 Contact me 👽</h3>
+<h3 align="center">
+<img src="images/kyubey.gif" width="26"/>
+Contact me 
+<img src="images/kyubey.gif" width="26"/>
+</h3>
+
 <hr></hr>
