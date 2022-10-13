@@ -85,9 +85,9 @@
 
 <br>
 <h3 align="center">
-<img src="images/YAg6.gif" width="20"/>
+<img src="images/YAg6.gif" width="22"/>
 Contact me 
-<img src="images/YAg6.gif" width="20"/>
+<img src="images/YAg6.gif" width="22"/>
 </h3>
 
 <hr></hr>
