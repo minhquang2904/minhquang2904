@@ -60,7 +60,7 @@
 
 <br>
 <h3 align="center">
-<img src="images/pie-chart (1).png" width="16" align="center"/>
+<img src="images/kyubey.gif" width="36"/>
 <b>GitHub Stats</b>
 <img src="images/pie-chart.png" width="16" align="center"/>
 </h3>
@@ -74,6 +74,7 @@
     <img  width="413" height="163" src="https://github-readme-stats.vercel.app/api?username=minhquang2904&show_icons=true&theme=react&border_color=61dafb&hide_border=true&bg_color=2e3440"/>
   </a>
 </div>
+<!-- https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=20228100 -->
 
 <br>
 <div>
