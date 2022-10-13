@@ -74,8 +74,6 @@
 </div>
 
 <br>
-<br>
-<br>
 
 <div>
 <a href="#" title="minhquangdev">
