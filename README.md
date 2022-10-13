@@ -66,10 +66,10 @@
 <hr></hr>
 <div>
    <a href="#" title="minhquangdev">
-    <img width="413" align="left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhquang2904&layout=compact&show_icons=true&theme=react&border_color=61dafb&hide_border=true&langs_count=10"/>
+    <img width="413" align="left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhquang2904&layout=compact&show_icons=true&theme=react&border_color=61dafb&hide_border=true&langs_count=10&bg_color=2e3440"/>
   </a>
   <a href="#" title="minhquangdev">
-    <img  width="413"  src="https://github-readme-stats.vercel.app/api?username=minhquang2904&show_icons=true&theme=react&border_color=61dafb&hide_border=true"/>
+    <img  width="413"  src="https://github-readme-stats.vercel.app/api?username=minhquang2904&show_icons=true&theme=react&border_color=61dafb&hide_border=true&bg_color=2e3440"/>
   </a>
 </div>
 
