@@ -60,7 +60,6 @@
 &nbsp;
 
 <br>
-<br>
 <h3 align="center">
 <img src="images/pie-chart (1).png" width="16" align="center"/>
 <b>GitHub Stats</b>
@@ -84,6 +83,5 @@
 </a>
 </div>
 
-<br>
 <h3 align="center">👽 Contact me 👽</h3>
 <hr></hr>
