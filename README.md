@@ -59,8 +59,8 @@
 &nbsp;
 
 <br>
-<img src="images/kyubey.gif" width="40" align="left"/>
 <h3 align="center">
+<img src="images/kyubey.gif" width="40" align="left"/>
 <img src="images/fire_1f525.gif" width="20"/>
 <b>GitHub Stats</b>
 <img src="images/fire_1f525.gif" width="20"/>
