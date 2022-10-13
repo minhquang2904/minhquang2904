@@ -99,6 +99,9 @@
   <a href="https://www.linkedin.com/in/minhquang-luong-854774239/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="Lương Minh Quang-linkedin" />
   </a>
+  <a href="https://www.pinterest.com/minhquangnthq/" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/pinterest.png" alt="Lương Minh Quang-instagram" />
+  </a>
   <a href="https://www.instagram.com/minhquang.luong.526/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="Lương Minh Quang-instagram" />
   </a>
