@@ -113,9 +113,9 @@
 
 <br>
 <h3 align="center">
-<img src="images/b41334a036d6796c281a6e5cbb36e4b5.gif" width="12" align="center"/>
+<img src="images/b41334a036d6796c281a6e5cbb36e4b5.gif" width="12"/>
 <b>Quotes</b>
-<img src="images/b41334a036d6796c281a6e5cbb36e4b5.gif" width="12" align="center"/>
+<img src="images/b41334a036d6796c281a6e5cbb36e4b5.gif" width="12"/>
 </h3>
 
 <hr></hr>
