@@ -77,6 +77,6 @@
 
 <div>
 <a href="#" title="minhquangdev">
-  <img align="center" width="100%" src="https://streak-stats.demolab.com/?user=minhquang2904&theme=nord&hide_border=true&background=20232a"/>
+  <img align="center" width="100%" src="https://streak-stats.demolab.com/?user=minhquang2904&theme=nord&hide_border=true"/>
 </a>
 </div>
