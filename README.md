@@ -85,6 +85,7 @@
 
 <br>
 <h3 align="center">
+<img src="images/kyubey.gif" width="40" align="left"/>
 <img src="images/YAg6.gif" width="20"/>
 Contact me 
 <img src="images/YAg6.gif" width="20"/>
