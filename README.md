@@ -82,5 +82,6 @@
 </a>
 </div>
 
+<br>
 <h3 align="center">👽 Contact me 👽</h3>
 <hr></hr>
