@@ -62,7 +62,7 @@
 <h3 align="center">
 <img src="images/kyubey.gif" width="36"/>
 <b>GitHub Stats</b>
-<img src="images/pie-chart.png" width="16" align="center"/>
+<img src="images/kyubey.gif" width="36"/>
 </h3>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <hr></hr>
