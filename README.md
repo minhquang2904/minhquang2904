@@ -119,3 +119,7 @@
 </h3>
 
 <hr></hr>
+
+<div align="center">
+    <img  src="https://github-readme-quotes.herokuapp.com/quote?theme=dark" alt="Lương Minh Quang-email" />
+</div>
