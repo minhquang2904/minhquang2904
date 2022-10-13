@@ -87,25 +87,22 @@
 <br>
 <h3 align="center">
 <img src="images/YAg6.gif" width="20"/>
-Contact me 
+<b>Contact Me </b>
 <img src="images/YAg6.gif" width="20"/>
 </h3>
 
 <hr></hr>
 <div align="center">
-  <a href="https://facebook.com/trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
+  <a href="https://www.facebook.com/minhquang.luong.526/" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="Lương Minh Quang-facebook" />
   </a>
-  <a href="https://www.youtube.com/c/TrungquandevOfficial" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="trungquandev-youtube" />
+  <a href="https://www.linkedin.com/in/minhquang-luong-854774239/" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="Lương Minh Quang-linkedin" />
   </a>
-  <a href="https://www.linkedin.com/in/trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trungquandev-linkedin" />
+  <a href="https://www.instagram.com/minhquang.luong.526/" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="Lương Minh Quang-instagram" />
   </a>
-  <a href="https://instagram.com/trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trungquandev-instagram" />
-  </a>
-  <a href="mailto:trungquandev.official@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
+  <a href="mailto:minhquangNTHQ@gmail.com" target="top">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="Lương Minh Quang-email" />
   </a>
 </div>
