@@ -47,7 +47,7 @@
 				.skills {
           display: inline-flex;
           margin: 30px auto;
-          gap: 12px;
+          gap: 14px;
         }
         .skills_icon>img {
           width: 80px;
