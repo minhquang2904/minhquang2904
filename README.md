@@ -121,6 +121,6 @@
 
 <div  align="center">
   <a href="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord" title="minhquangdev">
-    <img  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&quote=It's not whether you get knocked down. It's whether you get up&author=Vince Lombardi" alt="Lương Minh Quang - Quotes" />
+    <img  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&quote=It's not whether you get knocked down. It's whether you get up" alt="Lương Minh Quang - Quotes" />
   </a>
 </div>
