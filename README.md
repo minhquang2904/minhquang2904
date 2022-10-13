@@ -62,6 +62,7 @@
 <h3 align="center">
 <img src="images/fire_1f525.gif" width="20"/>
 <b>GitHub Stats</b>
+<img src="images/fire_1f525.gif" width="20"/>
 </h3>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <hr></hr>
