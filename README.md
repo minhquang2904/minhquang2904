@@ -121,5 +121,7 @@
 <hr></hr>
 
 <div align="center">
+  <a href="#" title="minhquangdev">
     <img  src="https://github-readme-quotes.herokuapp.com/quote?theme=dark" alt="Lương Minh Quang-email" />
+  </a>
 </div>
