@@ -7,7 +7,9 @@
 <h3 align="center">
 <img src="images/GIF_DB_Computer.gif" width="26" align="center"/>
 <b align="center">Technologies and Tools</b>
+<a>
 <img src="images/GIF_DB_Computer.gif" width="26" align="center"/>
+</a>
 </h3>
 <hr></hr>
 <!-- https://simpleicons.org/ -->
