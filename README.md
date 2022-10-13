@@ -2,6 +2,8 @@
 <a href="#" target="_blank">
   <img src="svg/minhquangdev.svg" width="1200" alt="minhquangdev" />
 </a>
+
+<br>
 <h3 align="center">
 <img src="images/computer.png" width="20" align="center"/>
 <b align="center">Technologies and Tools</b>
@@ -56,6 +58,7 @@
 <span><img src="https://img.shields.io/badge/Jupyter-2e3440?logo=Jupyter&logoColor=F37626" alt="Jupyter logo" title="Jupyter" height="25" /></span>
 &nbsp;
 
+<br>
 <br>
 <h3 align="center">
 <img src="images/pie-chart (1).png" width="16" align="center"/>
