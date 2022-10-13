@@ -74,9 +74,12 @@
 </div>
 
 <br>
-
 <div>
 <a href="#" title="minhquangdev">
   <img align="center" width="100%" src="https://streak-stats.demolab.com/?user=minhquang2904&theme=nord&hide_border=true&ring=e17b5f&fire=e17b5f&currStreakNum=8adeff&sideNums=8adeff&type=svg&sideLabels=8adeff&currStreakLabel=8adeff&dates=white"/>
 </a>
 </div>
+
+<br>
+<h3 align="center">👽 Contact me 👽</h3>
+<hr></hr>
