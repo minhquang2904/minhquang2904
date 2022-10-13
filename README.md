@@ -4,7 +4,6 @@
 </a>
 
 <br>
-<br>
 <h3 align="center">
 <img src="images/computer.png" width="20" align="center"/>
 <b align="center">Technologies and Tools</b>
