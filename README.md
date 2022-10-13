@@ -92,6 +92,7 @@
 </h3>
 
 <hr></hr>
+
 <div align="center">
   <a href="https://www.facebook.com/minhquang.luong.526/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="Lương Minh Quang-facebook" />
@@ -109,3 +110,12 @@
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="Lương Minh Quang-email" />
   </a>
 </div>
+
+<br>
+<h3 align="center">
+<img src="images/b41334a036d6796c281a6e5cbb36e4b5.gif" width="12" align="center"/>
+<b>Quotes</b>
+<img src="images/b41334a036d6796c281a6e5cbb36e4b5.gif" width="12" align="center"/>
+</h3>
+
+<hr></hr>
