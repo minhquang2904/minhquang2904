@@ -120,7 +120,7 @@
 <hr></hr>
 
 <div  align="center">
-  <a href="#" title="minhquangdev">
+  <a href="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord" title="minhquangdev">
     <img  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord" alt="Lương Minh Quang - Quotes" />
   </a>
 </div>
