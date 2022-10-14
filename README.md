@@ -69,14 +69,18 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <hr></hr>
 <div>
-   <a href="#" title="minhquangdev">
-    <img width="413" align="left" height="163"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhquang2904&layout=compact&show_icons=true&theme=react&border_color=61dafb&hide_border=true&langs_count=4&bg_color=2e3440"/>
-  </a>
-  <a href="#" title="minhquangdev">
-    <img  width="413" height="163" src="https://github-readme-stats.vercel.app/api?username=minhquang2904&show_icons=true&theme=react&border_color=61dafb&hide_border=true&bg_color=2e3440"/>
-  </a>
+  <div width="50%">
+    <a href="#" title="minhquangdev">
+      <img width="413"  height="163"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhquang2904&layout=compact&show_icons=true&theme=react&border_color=61dafb&hide_border=true&langs_count=4&bg_color=2e3440"/>
+    </a>
+    <br>
+    <a href="#" title="minhquangdev">
+      <img  width="413" height="163" src="https://github-readme-stats.vercel.app/api?username=minhquang2904&show_icons=true&theme=react&border_color=61dafb&hide_border=true&bg_color=2e3440"/>
+    </a>
+  </div>
+  <div width="50%">123</div>
 </div>
-<!-- https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=20228100 -->
+
 
 <br>
 <div>
@@ -127,10 +131,4 @@
 </div>
 
 
-
-<!-- <div  align="center">
-  <a href="#" title="minhquangdev">
-    <img  src="https://camo.githubusercontent.com/04604bf68bb3dbae044bb3e2438f08e9c1c521a158b945cefdfdfad320d1a0b8/68747470733a2f2f726561646d652d6e6f772d706c6179696e672e76657263656c2e6170702f6e6f772d706c6179696e672f713f7569643d627779676466336b356e613863647938656b336f666f7465712673697a653d6c61726765267468656d653d636f6c6f72626c6f636b266261723d7761766573" alt="Lương Minh Quang - Quotes" />
-  </a>
-</div> -->
 
