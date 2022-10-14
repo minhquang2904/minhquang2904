@@ -153,6 +153,3 @@ Eating</b>
     <img src="https://github.com/minhquang2904/minhquang2904/raw/output/github-contribution-grid-snake.svg" alt="snake"/>
     </a>
 </p>
-
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=xwbt4pvdcorjnwfyz1nyq2h04&cover_image=true&theme=default &show_offline=false&bar_color=c90d29&bar_color_cover=true)](https://github.com/minhquangdev/spotify-github-profile)
