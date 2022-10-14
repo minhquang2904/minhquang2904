@@ -68,18 +68,17 @@
 </h3>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <hr></hr>
-<div>
-  <div width="50%">
-    <a href="#" title="minhquangdev">
-      <img width="413"  height="163"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhquang2904&layout=compact&show_icons=true&theme=react&border_color=61dafb&hide_border=true&langs_count=4&bg_color=2e3440"/>
-    </a>
-    <br>
-    <a href="#" title="minhquangdev">
-      <img  width="413" height="163" src="https://github-readme-stats.vercel.app/api?username=minhquang2904&show_icons=true&theme=react&border_color=61dafb&hide_border=true&bg_color=2e3440"/>
-    </a>
-  </div>
-  <div width="50%">123</div>
-</div>
+<table style="width:100%;">
+  <tr width="50%">
+    <td>
+      <img width="100%"    src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhquang2904&layout=compact&show_icons=true&theme=react&border_color=61dafb&hide_border=true&langs_count=4&bg_color=2e3440"/>
+      <img  width="100%" src="https://github-readme-stats.vercel.app/api?username=minhquang2904&show_icons=true&theme=react&border_color=61dafb&hide_border=true&bg_color=2e3440"/>
+    </td>
+    <td>
+      123
+    </td>
+  </tr>
+</table>
 
 
 <br>
