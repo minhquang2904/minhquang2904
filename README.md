@@ -98,10 +98,10 @@
   <a href="https://www.facebook.com/minhquang.luong.526/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="Lương Minh Quang-facebook" />
   </a>
-  <a href="https://www.linkedin.com/in/minhquang-luong-854774239/" target="blank">
+  <a href="https://www.linkedin.com/in/minh-quang-luong-854774239/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="Lương Minh Quang-linkedin" />
   </a>
-  <a href="https://www.pinterest.com/minhquangnthq/" target="blank">
+  <a href="https://www.pinterest.com/minhquangnthqdev/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/pinterest.png" alt="Lương Minh Quang-instagram" />
   </a>
   <a href="https://www.instagram.com/minhquang.luong.526/" target="blank">
@@ -125,6 +125,14 @@
     <img  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord" alt="Lương Minh Quang - Quotes" />
   </a>
 </div>
+
+<div  align="center">
+  <a href="#" title="minhquangdev">
+    <img  src="https://spotify-recently-played-readme.vercel.app/api?user=minhquangnthq@gmail.com
+" alt="Lương Minh Quang - Quotes" />
+  </a>
+</div>
+
 
 
 
