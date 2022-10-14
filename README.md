@@ -73,7 +73,7 @@
 <b>Minhquangdev's Stats</b>
 <div align="center">
   <a href="#" title="minhquangdev">
-    <img   width="49.5%"  src="https://github-readme-stats.vercel.app/api?username=minhquang2904&show_icons=true&theme=react&border_color=61dafb&hide_border=true&bg_color=2e3440"/>
+    <img    align="left" width="49.5%"  src="https://github-readme-stats.vercel.app/api?username=minhquang2904&show_icons=true&theme=react&border_color=61dafb&hide_border=true&bg_color=2e3440"/>
   </a>
   <a href="#" title="minhquangdev">
     <img width="49.5%" src="https://streak-stats.demolab.com/?user=minhquang2904&theme=nord&hide_border=true&ring=e17b5f&fire=e17b5f&currStreakNum=8adeff&sideNums=8adeff&type=svg&sideLabels=8adeff&currStreakLabel=8adeff&dates=white"/>
