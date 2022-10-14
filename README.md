@@ -94,7 +94,6 @@
 
 
 
-<br>
 <h3 align="center">
 <img src="images/cat.gif" width="20"/>
 <b>Contact With Me </b>
