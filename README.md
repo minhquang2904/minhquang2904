@@ -70,7 +70,11 @@
 </h3>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <hr></hr>
-<b>Minhquangdev's Stats</b>
+<p>
+  <img align="center" width="30" src='images/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6959384352426451584f444a5343455249722f67697068792e676966.gif' />
+  <b align="center" > Minhquangdev's Stats</b>
+</p>
+
 <br>
 <br>
 <p  dir="auto">
