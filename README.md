@@ -68,7 +68,7 @@
 </h3>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <hr></hr>
-<table style="width:100%; border: none;" >
+<table style="width:10%; border: none;" >
   <tr width="50%">
     <td>
       <img width="100%"    src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhquang2904&layout=compact&show_icons=true&theme=react&border_color=61dafb&hide_border=true&langs_count=4&bg_color=2e3440"/>
