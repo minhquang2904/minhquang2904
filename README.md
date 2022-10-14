@@ -97,7 +97,7 @@
 <br>
 <h3 align="center">
 <img src="images/cat.gif" width="20"/>
-<b>Contact Me </b>
+<b>Contact With Me </b>
 <img src="images/cat.gif" width="20"/>
 </h3>
 
@@ -140,3 +140,6 @@
 
 
 <!-- <img src="https://camo.githubusercontent.com/1edfc7fb699f4d560332f30850ea7dbe77b6c1e8c3c0cd6e14772af993e2981a/68747470733a2f2f697473746f6d6d692e76657263656c2e6170702f6170693f7468656d653d6461726b" alt="Preview" data-canonical-src="https://itstommi.vercel.app/api?spin=true" style="max-width: 100%;"> -->
+<!-- <img src="https://github.com/rock12231/rock12231/raw/output/github-contribution-grid-snake.svg" alt="snake" style="max-width: 100%;"> -->
+
+![snake gif](https://github.com/minhquang2904/minhquang2904/blob/output/github-contribution-grid-snake.gif)
