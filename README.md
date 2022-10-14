@@ -98,6 +98,7 @@
 <img src="images/cat.gif" width="20"/>
 <b>Contact With Me </b>
 <img src="images/cat.gif" width="20"/>
+<img src="images/bear.gif" width="20" align="right"/>
 </h3>
 
 <hr></hr>
