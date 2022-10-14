@@ -68,18 +68,15 @@
 </h3>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <hr></hr>
-<table style="width:10%; border: none;" >
-  <tr width="50%">
-    <td>
-      <img width="100%"    src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhquang2904&layout=compact&show_icons=true&theme=react&border_color=61dafb&hide_border=true&langs_count=4&bg_color=2e3440"/>
-      <img  width="100%" src="https://github-readme-stats.vercel.app/api?username=minhquang2904&show_icons=true&theme=react&border_color=61dafb&hide_border=true&bg_color=2e3440"/>
-    </td>
-    <td>
-      123
-    </td>
-  </tr>
-</table>
-
+<div>
+   <a href="#" title="minhquangdev">
+    <img width="413" align="left" height="163"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhquang2904&layout=compact&show_icons=true&theme=react&border_color=61dafb&hide_border=true&langs_count=4&bg_color=2e3440"/>
+  </a>
+  <a href="#" title="minhquangdev">
+    <img  width="413" height="163" src="https://github-readme-stats.vercel.app/api?username=minhquang2904&show_icons=true&theme=react&border_color=61dafb&hide_border=true&bg_color=2e3440"/>
+  </a>
+</div>
+<!-- https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=20228100 -->
 
 <br>
 <div>
