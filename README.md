@@ -70,22 +70,25 @@
 </h3>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <hr></hr>
+<b>Minhquangdev's Stats</b>
 <div>
-   <a href="#" title="minhquangdev">
-    <img width="413" align="left" height="163"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhquang2904&layout=compact&show_icons=true&theme=react&border_color=61dafb&hide_border=true&langs_count=4&bg_color=2e3440"/>
+  <a href="#" title="minhquangdev">
+    <img align="center"  src="https://streak-stats.demolab.com/?user=minhquang2904&theme=nord&hide_border=true&ring=e17b5f&fire=e17b5f&currStreakNum=8adeff&sideNums=8adeff&type=svg&sideLabels=8adeff&currStreakLabel=8adeff&dates=white"/>
   </a>
   <a href="#" title="minhquangdev">
-    <img  width="413" height="163" src="https://github-readme-stats.vercel.app/api?username=minhquang2904&show_icons=true&theme=react&border_color=61dafb&hide_border=true&bg_color=2e3440"/>
+    <img   src="https://github-readme-stats.vercel.app/api?username=minhquang2904&show_icons=true&theme=react&border_color=61dafb&hide_border=true&bg_color=2e3440"/>
   </a>
 </div>
 <!-- https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=20228100 -->
 
 <br>
 <div>
-<a href="#" title="minhquangdev">
-  <img align="center" width="100%" src="https://streak-stats.demolab.com/?user=minhquang2904&theme=nord&hide_border=true&ring=e17b5f&fire=e17b5f&currStreakNum=8adeff&sideNums=8adeff&type=svg&sideLabels=8adeff&currStreakLabel=8adeff&dates=white"/>
-</a>
+  <a href="#" title="minhquangdev">
+    <img width="413" align="left" height="163"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhquang2904&layout=compact&show_icons=true&theme=react&border_color=61dafb&hide_border=true&langs_count=4&bg_color=2e3440"/>
+  </a>
 </div>
+
+
 
 <br>
 <h3 align="center">
