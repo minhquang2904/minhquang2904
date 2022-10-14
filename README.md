@@ -5,10 +5,11 @@
 
 <br>
 <h3 align="center">
+<img src="images/kitty-chase-pixel.gif" width="24" align="left"/>
 <img src="images/GIF_DB_Computer.gif" width="24" align="center"/>
 <b align="center">Technologies and Tools</b>
 <img src="images/GIF_DB_Computer.gif" width="24" align="center"/>
-<img src="images/kitty-chase-pixel.gif" width="24" align="right"/>
+<img src="images/kyubey.gif" width="24" align="right"/>
 </h3>
 <hr></hr>
 <!-- https://simpleicons.org/ -->
@@ -65,6 +66,7 @@
 <img src="images/fire_1f525.gif" width="20"/>
 <b>GitHub Stats</b>
 <img src="images/fire_1f525.gif" width="20"/>
+<img src="images/kitty-chase-pixel.gif" width="24" align="right"/>
 </h3>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <hr></hr>
