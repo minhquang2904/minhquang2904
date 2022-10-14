@@ -9,7 +9,7 @@
 <img src="images/GIF_DB_Computer.gif" width="24" align="center"/>
 <b align="center">Technologies and Tools</b>
 <img src="images/GIF_DB_Computer.gif" width="24" align="center"/>
-<img src="images/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f376a32686679655663447466322f67697068792e676966.gif" width="40" align="right"/>
+<img src="images/bird.gif" width="40" align="right"/>
 </h3>
 <hr></hr>
 <!-- https://simpleicons.org/ -->
@@ -66,7 +66,7 @@
 <img src="images/fire_1f525.gif" width="20"/>
 <b>GitHub Stats</b>
 <img src="images/fire_1f525.gif" width="20"/>
-<img src="images/kitty-chase-pixel.gif" width="24" align="right"/>
+<img src="images/horse.gif" width="20" align="right"/>
 </h3>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <hr></hr>
@@ -96,9 +96,9 @@
 
 <br>
 <h3 align="center">
-<img src="images/YAg6.gif" width="20"/>
+<img src="images/cat.gif" width="20"/>
 <b>Contact Me </b>
-<img src="images/YAg6.gif" width="20"/>
+<img src="images/cat.gif" width="20"/>
 </h3>
 
 <hr></hr>
@@ -122,9 +122,9 @@
 </div>
 
 <h3 align="center">
-<img src="images/b41334a036d6796c281a6e5cbb36e4b5.gif" width="20" align="center"/>
+<img src="images/book.gif" width="20" align="center"/>
 <b>Quotes</b>
-<img src="images/b41334a036d6796c281a6e5cbb36e4b5.gif" width="20" align="center"/>
+<img src="images/book.gif" width="20" align="center"/>
 </h3>
 
 <hr></hr>
