@@ -86,9 +86,9 @@
 <b>⚡  Top Languages</b>
 <br>
 <br>
-<div  align="center">
+<div>
   <a href="#" title="minhquangdev">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhquang2904&layout=compact&show_icons=true&theme=react&border_color=61dafb&hide_border=true&bg_color=2e3440"/>
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhquang2904&layout=compact&show_icons=true&theme=react&border_color=61dafb&hide_border=true&bg_color=2e3440"/>
   </a>
 </div>
 
