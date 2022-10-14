@@ -82,8 +82,8 @@
   </a>
 </p>
 <!-- https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=20228100 -->
-
 <br>
+<b>Minhquangdev's Stats</b>
 <div>
   <a href="#" title="minhquangdev">
     <img   src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhquang2904&layout=compact&show_icons=true&theme=react&border_color=61dafb&hide_border=true&langs_count=4&bg_color=2e3440"/>
