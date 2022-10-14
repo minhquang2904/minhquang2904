@@ -112,6 +112,15 @@
   </a>
 </div>
 
+<hr></hr>
+
+<div  align="center">
+  <a href="#" title="minhquangdev">
+    <img  src="https://github-profile-trophy.vercel.app/?username=minhquang2904" alt="Lương Minh Quang - Quotes" />
+  </a>
+</div>
+
+
 <h3 align="center">
 <img src="images/b41334a036d6796c281a6e5cbb36e4b5.gif" width="20" align="center"/>
 <b>Quotes</b>
@@ -125,6 +134,8 @@
     <img  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord" alt="Lương Minh Quang - Quotes" />
   </a>
 </div>
+
+
 
 <!-- <div  align="center">
   <a href="#" title="minhquangdev">
