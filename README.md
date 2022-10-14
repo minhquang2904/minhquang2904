@@ -71,7 +71,8 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <hr></hr>
 <b>Minhquangdev's Stats</b>
-<p align="center"  dir="auto">
+<br>
+<p  dir="auto">
   <a href="#" title="minhquangdev">
     <img     width="49.5%"  src="https://github-readme-stats.vercel.app/api?username=minhquang2904&show_icons=true&theme=react&border_color=61dafb&hide_border=true&bg_color=2e3440"/>
   </a>
