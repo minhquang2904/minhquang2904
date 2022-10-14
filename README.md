@@ -155,4 +155,4 @@ Eating</b>
 </p>
 
 
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=xwbt4pvdcorjnwfyz1nyq2h04&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=xwbt4pvdcorjnwfyz1nyq2h04&cover_image=true&theme=default&show_offline=false)]]
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=xwbt4pvdcorjnwfyz1nyq2h04&cover_image=true&theme=default&show_offline=false&bar_color=c90d29&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
