@@ -138,8 +138,19 @@
 <!-- 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" /> -->
 
+<br>
 
-<!-- <img src="https://camo.githubusercontent.com/1edfc7fb699f4d560332f30850ea7dbe77b6c1e8c3c0cd6e14772af993e2981a/68747470733a2f2f697473746f6d6d692e76657263656c2e6170702f6170693f7468656d653d6461726b" alt="Preview" data-canonical-src="https://itstommi.vercel.app/api?spin=true" style="max-width: 100%;"> -->
-<!-- <img src="https://github.com/rock12231/rock12231/raw/output/github-contribution-grid-snake.svg" alt="snake" style="max-width: 100%;"> -->
+<h3 align="center">
+<img src="images/book.gif" width="20" align="center"/>
+<b>Watch a 🐍 eating</b>
+<img src="images/book.gif" width="20" align="center"/>
+</h3>
 
-![snake gif](https://github.com/minhquang2904/minhquang2904/blob/output/github-contribution-grid-snake.gif)
+<hr></hr>
+
+<p align="center" dir="auto">
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/minhquang2904/minhquang2904/raw/output/github-contribution-grid-snake.svg">
+    <img src="https://github.com/minhquang2904/minhquang2904/raw/output/github-contribution-grid-snake.svg" alt="snake" style="max-width: 100%;"/>
+    </a>
+</p>
+
