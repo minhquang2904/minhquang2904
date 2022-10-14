@@ -8,6 +8,7 @@
 <img src="images/GIF_DB_Computer.gif" width="24" align="center"/>
 <b align="center">Technologies and Tools</b>
 <img src="images/GIF_DB_Computer.gif" width="24" align="center"/>
+<img src="images/kitty-chase-pixel.gif" width="24" align="right"/>
 </h3>
 <hr></hr>
 <!-- https://simpleicons.org/ -->
@@ -130,3 +131,4 @@
     <img  src="https://camo.githubusercontent.com/04604bf68bb3dbae044bb3e2438f08e9c1c521a158b945cefdfdfad320d1a0b8/68747470733a2f2f726561646d652d6e6f772d706c6179696e672e76657263656c2e6170702f6e6f772d706c6179696e672f713f7569643d627779676466336b356e613863647938656b336f666f7465712673697a653d6c61726765267468656d653d636f6c6f72626c6f636b266261723d7761766573" alt="Lương Minh Quang - Quotes" />
   </a>
 </div> -->
+
