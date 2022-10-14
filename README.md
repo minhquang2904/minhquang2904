@@ -70,7 +70,7 @@
 </h3>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <hr></hr>
-<b>⚡ Tinhquangdev's Stats</b>
+<b>⚡ Minhquangdev's Stats</b>
 <br>
 <br>
 <p  dir="auto">
