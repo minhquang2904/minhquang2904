@@ -154,3 +154,5 @@ Eating</b>
     </a>
 </p>
 
+
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=xwbt4pvdcorjnwfyz1nyq2h04&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=xwbt4pvdcorjnwfyz1nyq2h04&cover_image=true&theme=default&show_offline=false)]]
