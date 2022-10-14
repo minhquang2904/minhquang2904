@@ -95,6 +95,7 @@
 
 
 <h3 align="center">
+<img src="images/cat2.gif" width="26" align="left"/>
 <img src="images/cat.gif" width="20"/>
 <b>Contact With Me </b>
 <img src="images/cat.gif" width="20"/>
@@ -153,3 +154,4 @@ Eating</b>
     </a>
 </p>
 
+<img src="https://camo.githubusercontent.com/8c83f5a3706c4acb743321695cc51a45723fb34c5f61bc16c3c4086f6aff6ab5/68747470733a2f2f6e6f7661746f72656d2e76657263656c2e6170702f6170692f73706f746966793f6261636b67726f756e645f636f6c6f723d30643131313726626f726465725f636f6c6f723d666666666666" alt="Spotify" data-canonical-src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&amp;border_color=ffffff" style="max-width: 100%;">
