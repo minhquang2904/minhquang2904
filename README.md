@@ -135,13 +135,8 @@
   </a>
 </div>
 
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=xwbt4pvdcorjnwfyz1nyq2h04&count=2" alt="Spotify" style="max-width: 100%;">
-<!-- <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" /> -->
+<!-- 
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" /> -->
 
 
-
-
-<!-- Client ID c52c20849a2c4ab6a18fa037ccb597a8 -->
-<!-- Client Secret 21cd6628460b4ee7a2d37e1a1fc2b1e1 -->
-
-<img src="https://camo.githubusercontent.com/1edfc7fb699f4d560332f30850ea7dbe77b6c1e8c3c0cd6e14772af993e2981a/68747470733a2f2f697473746f6d6d692e76657263656c2e6170702f6170693f7468656d653d6461726b" alt="Preview"  style="max-width: 100%;">
+<!-- <img src="https://camo.githubusercontent.com/1edfc7fb699f4d560332f30850ea7dbe77b6c1e8c3c0cd6e14772af993e2981a/68747470733a2f2f697473746f6d6d692e76657263656c2e6170702f6170693f7468656d653d6461726b" alt="Preview" data-canonical-src="https://itstommi.vercel.app/api?spin=true" style="max-width: 100%;"> -->
