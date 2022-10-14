@@ -148,7 +148,7 @@ Eating</b>
 
 <p align="center" dir="auto">
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/minhquang2904/minhquang2904/raw/output/github-contribution-grid-snake.svg">
-    <img src="https://github.com/minhquang2904/minhquang2904/raw/output/github-contribution-grid-snake.svg" alt="snake" style="max-width: 100%;"/>
+    <img src="https://github.com/minhquang2904/minhquang2904/raw/output/github-contribution-grid-snake.svg" alt="snake"/>
     </a>
 </p>
 
