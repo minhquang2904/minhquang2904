@@ -138,9 +138,10 @@
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" /> -->
 
 <h3 align="center">
-<img src="images/book.gif" width="20" align="center"/>
-<b>Watch a 🐍 eating</b>
-<img src="images/book.gif" width="20" align="center"/>
+<b>
+Watch A 
+<img src="images/snake1.gif" width="26" align="center"/>
+Eating</b>
 </h3>
 
 <hr></hr>
