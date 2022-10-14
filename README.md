@@ -9,7 +9,7 @@
 <img src="images/GIF_DB_Computer.gif" width="24" align="center"/>
 <b align="center">Technologies and Tools</b>
 <img src="images/GIF_DB_Computer.gif" width="24" align="center"/>
-<img src="images/kyubey.gif" width="40" align="right"/>
+<img src="images/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f376a32686679655663447466322f67697068792e676966.gif" width="40" align="right"/>
 </h3>
 <hr></hr>
 <!-- https://simpleicons.org/ -->
