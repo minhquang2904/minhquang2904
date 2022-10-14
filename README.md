@@ -88,7 +88,7 @@
 <br>
 <div  align="center">
   <a href="#" title="minhquangdev">
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhquang2904&layout=compact&show_icons=true&theme=react&border_color=61dafb&hide_border=true&bg_color=2e3440"/>
+    <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhquang2904&layout=compact&show_icons=true&theme=react&border_color=61dafb&hide_border=true&bg_color=2e3440"/>
   </a>
 </div>
 
