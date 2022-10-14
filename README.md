@@ -126,12 +126,12 @@
   </a>
 </div>
 
-<div  align="center">
+<!-- <div  align="center">
   <a href="#" title="minhquangdev">
     <img  src="https://spotify-recently-played-readme.vercel.app/api?user=minhquangnthq@gmail.com
 " alt="Lương Minh Quang - Quotes" />
   </a>
-</div>
+</div> -->
 
 
 
