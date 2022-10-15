@@ -93,7 +93,7 @@
 </div>
 
 <div align="center"  height="12">
-  <img alt="GIF" width="200"  src="images/93bb1096059215.5ef518f8f2ae4.gif" />
+  <img alt="GIF" width="400"  src="images/93bb1096059215.5ef518f8f2ae4.gif" />
 </div>
 
 
