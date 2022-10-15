@@ -93,7 +93,7 @@
 </div>
 <div align="center" dir="auto">
   <a href="#" title="minhquangdev">
-    <img   alt="GIF" width="480" src="images/spotify.gif" />
+    <img   alt="GIF" width="500" src="images/spotify.gif" />
   </a>
 </div>
 
