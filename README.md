@@ -91,14 +91,14 @@
     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhquang2904&layout=compact&show_icons=true&theme=react&border_color=61dafb&hide_border=true&bg_color=2e3440"/>
   </a>
 </div>
-
-<hr>
-
 <div align="center" dir="auto">
   <a href="#" title="minhquangdev">
     <img   alt="GIF" width="480" src="images/spotify.gif" />
   </a>
 </div>
+
+<hr>
+
 <div align="center" dir="auto">
   <a href="https://open.spotify.com/user/xwbt4pvdcorjnwfyz1nyq2h04" title="minhquangdev">
     <!-- <img  alt="Spotify"  src="https://spotify-recently-played-readme.vercel.app/api?user=xwbt4pvdcorjnwfyz1nyq2h04&width=550&count=4" /> -->
