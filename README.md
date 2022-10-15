@@ -98,15 +98,14 @@
 
 <hr></hr>
 
-<div dir="auto">
+<div align="center" dir="auto">
   <a href="https://open.spotify.com/user/xwbt4pvdcorjnwfyz1nyq2h04" title="minhquangdev">
-    <img  alt="Spotify" width="49.5%"  src="https://spotify-recently-played-readme.vercel.app/api?user=xwbt4pvdcorjnwfyz1nyq2h04&width=450" />
+    <img align="left"  alt="Spotify"  src="https://spotify-recently-played-readme.vercel.app/api?user=xwbt4pvdcorjnwfyz1nyq2h04&width=450" />
   </a>
   <a href="#" title="minhquangdev">
-    <img  alt="GIF" width="49.5%" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+    <img  align="right" alt="GIF" height="170" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
   </a>
 </div>
-
 
 <h3 align="center">
 <img src="images/cat2.gif" width="26" align="left"/>
