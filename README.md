@@ -97,8 +97,6 @@
   </a>
 </div>
 
-<hr>
-
 <div align="center" dir="auto">
   <a href="https://open.spotify.com/user/xwbt4pvdcorjnwfyz1nyq2h04" title="minhquangdev">
     <!-- <img  alt="Spotify"  src="https://spotify-recently-played-readme.vercel.app/api?user=xwbt4pvdcorjnwfyz1nyq2h04&width=550&count=4" /> -->
