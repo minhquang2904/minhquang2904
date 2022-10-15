@@ -92,7 +92,6 @@
   </a>
 </div>
 
-<br>
 <h3 align="center">
 <b>Spotify</b>
 </h3>
@@ -109,7 +108,6 @@
 </div>
 
 
-<br>
 <h3 align="center">
 <img src="images/cat2.gif" width="26" align="left"/>
 <img src="images/cat.gif" width="20"/>
