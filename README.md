@@ -128,9 +128,7 @@
 <img src="images/book.gif" width="20" align="center"/>
 </h3>
 
-<div>
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=xwbt4pvdcorjnwfyz1nyq2h04&width=500&count=4" />
-</div>
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=xwbt4pvdcorjnwfyz1nyq2h04)
 
 
 <br>
