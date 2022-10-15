@@ -126,9 +126,11 @@
 <b>Spotify</b>
 </h3>
 
+<hr></hr>
+
 <div>
 
-  [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=xwbt4pvdcorjnwfyz1nyq2h04&width=600)](https://open.spotify.com/user/xwbt4pvdcorjnwfyz1nyq2h04)
+  [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=xwbt4pvdcorjnwfyz1nyq2h04&width=450)](https://open.spotify.com/user/xwbt4pvdcorjnwfyz1nyq2h04)
 
 </div>
 
