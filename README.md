@@ -123,12 +123,16 @@
 </div>
 
 <h3 align="center">
-<img src="images/book.gif" width="20" align="center"/>
 <b>Spotify</b>
-<img src="images/book.gif" width="20" align="center"/>
 </h3>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=xwbt4pvdcorjnwfyz1nyq2h04)
+<div>
+
+  [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=xwbt4pvdcorjnwfyz1nyq2h04&width=600)](https://open.spotify.com/user/xwbt4pvdcorjnwfyz1nyq2h04)
+
+</div>
+
+
 
 
 <br>
