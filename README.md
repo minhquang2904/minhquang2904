@@ -100,7 +100,7 @@
 <div align="center" dir="auto">
   <a href="https://open.spotify.com/user/xwbt4pvdcorjnwfyz1nyq2h04" title="minhquangdev">
     <!-- <img  alt="Spotify"  src="https://spotify-recently-played-readme.vercel.app/api?user=xwbt4pvdcorjnwfyz1nyq2h04&width=550&count=4" /> -->
-    <img  alt="Spotify"  src="https://spotify-github-profile.vercel.app/api/view?uid=xwbt4pvdcorjnwfyz1nyq2h04&cover_image=true&theme=default&bar_color=green&bar_color_cover=true" />
+    <img  alt="Spotify"  src="https://spotify-github-profile.vercel.app/api/view?uid=xwbt4pvdcorjnwfyz1nyq2h04&cover_image=true&theme=default&bar_color=e3e3e3&bar_color_cover=true" />
   </a>
 </div>
 
