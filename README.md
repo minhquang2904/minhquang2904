@@ -59,6 +59,21 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Jupyter-2e3440?logo=Jupyter&logoColor=F37626" alt="Jupyter logo" title="Jupyter" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/MySQL-2e3440?logo=MySQL&logoColor=4479A1" alt="MySQL logo" title="MySQL" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/PowerShell-2e3440?logo=PowerShell&logoColor=5391FE" alt="PowerShell logo" title="PowerShell" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Nodemon-2e3440?logo=Nodemon&logoColor=76D04B" alt="Nodemon logo" title="Nodemon" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Python-2e3440?logo=Python&logoColor=3776AB" alt="Python logo" title="Python" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/C-2e3440?logo=C&logoColor=A8B9CC" alt="C logo" title="C" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Laravel-2e3440?logo=Laravel&logoColor=FF2D20" alt="Laravel logo" title="Laravel" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/jQuery-2e3440?logo=jQuery&logoColor=0769AD" alt="jQuery logo" title="jQuery" height="25" /></span>
+&nbsp;
+
 
 <br>
 <h3 align="center">
