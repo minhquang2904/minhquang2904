@@ -100,10 +100,10 @@
 
 <div>
   <a href="https://open.spotify.com/user/xwbt4pvdcorjnwfyz1nyq2h04" title="minhquangdev">
-    <img  alt="GIF"  src="https://spotify-recently-played-readme.vercel.app/api?user=xwbt4pvdcorjnwfyz1nyq2h04&width=450" />
+    <img  alt="Spotify"  src="https://spotify-recently-played-readme.vercel.app/api?user=xwbt4pvdcorjnwfyz1nyq2h04&width=450" />
   </a>
   <a href="#" title="minhquangdev">
-    <img  alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+    <img align="right"  alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
   </a>
 </div>
 
