@@ -93,7 +93,7 @@
 </div>
 
 <div align="center"  height="12">
-  <img alt="GIF" width="200"  src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/93bb1096059215.5ef518f8f2ae4.gif" />
+  <img alt="GIF" width="200"  src="images/93bb1096059215.5ef518f8f2ae4.gif" />
 </div>
 
 
