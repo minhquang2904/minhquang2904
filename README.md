@@ -92,16 +92,18 @@
   </a>
 </div>
 
-<div align="center"  height="12">
-  <img alt="GIF" width="400"  src="images/93bb1096059215.5ef518f8f2ae4.gif" />
-</div>
-
+<h3 align="center">
+<b>Spotify</b>
+</h3>
 
 <hr></hr>
 
-<div align="center">
+<div>
   <a href="https://open.spotify.com/user/xwbt4pvdcorjnwfyz1nyq2h04" title="minhquangdev">
     <img  alt="Spotify"  src="https://spotify-recently-played-readme.vercel.app/api?user=xwbt4pvdcorjnwfyz1nyq2h04&width=450" />
+  </a>
+  <a href="#" title="minhquangdev">
+    <img align="right"  alt="GIF" width="200px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
   </a>
 </div>
 
@@ -144,7 +146,7 @@
 <hr></hr>
 
 <div  align="center">
-  <img  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord" alt="Lương Minh Quang - Quotes" />
+    <img  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord" alt="Lương Minh Quang - Quotes" />
 </div>
 
 <h3 align="center">
