@@ -92,9 +92,11 @@
   </a>
 </div>
 
+<hr>
+
 <div align="center" dir="auto">
   <a href="#" title="minhquangdev">
-    <img   alt="GIF" width="160" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+    <img   alt="GIF" width="180" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
   </a>
 </div>
 <div align="center" dir="auto">
