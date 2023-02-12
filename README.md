@@ -32,7 +32,7 @@
 <span><img src="https://img.shields.io/badge/CSS3-2e3440?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
 &nbsp;
 <!-- <span><img src="https://img.shields.io/badge/PHP-2e3440?logo=PHP&logoColor=777BB4" alt="PHP logo" title="PHP" height="25" /></span> -->
-&nbsp;
+<!-- &nbsp; -->
 <span><img src="https://img.shields.io/badge/git-2e3440?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-2e3440?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
@@ -43,34 +43,34 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/GitHub-2e3440?logo=GitHub&logoColor=181717" alt="GitHub logo" title="GitHub" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/XAMPP-2e3440?logo=XAMPP&logoColor=FB7A24" alt="XAMPP logo" title="XAMPP" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Heroku-2e3440?logo=Heroku&logoColor=430098" alt="Heroku logo" title="Heroku" height="25" /></span>
-&nbsp;
+<!-- <span><img src="https://img.shields.io/badge/XAMPP-2e3440?logo=XAMPP&logoColor=FB7A24" alt="XAMPP logo" title="XAMPP" height="25" /></span> -->
+<!-- &nbsp; -->
+<!-- <span><img src="https://img.shields.io/badge/Heroku-2e3440?logo=Heroku&logoColor=430098" alt="Heroku logo" title="Heroku" height="25" /></span> -->
+<!-- &nbsp; -->
 <span><img src="https://img.shields.io/badge/npm-2e3440?logo=npm&logoColor=CB3837" alt="npm logo" title="npm" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Microsoft SQL Server-2e3440?logo=Microsoft SQL Server&logoColor=CC2927" alt="Microsoft SQL Server logo" title="Microsoft SQL Server" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Sublime Text-2e3440?logo=Sublime Text&logoColor=FF9800" alt="Sublime Text logo" title="Sublime Text" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/phpMyAdmin-2e3440?logo=phpMyAdmin&logoColor=6C78AF" alt="phpMyAdmin logo" title="phpMyAdmin" height="25" /></span>
-&nbsp;
+<!-- <span><img src="https://img.shields.io/badge/phpMyAdmin-2e3440?logo=phpMyAdmin&logoColor=6C78AF" alt="phpMyAdmin logo" title="phpMyAdmin" height="25" /></span> -->
+<!-- &nbsp; -->
 <span><img src="https://img.shields.io/badge/Google Colab-2e3440?logo=Google Colab&logoColor=F9AB00" alt="Google Colab logo" title="Google Colab" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Jupyter-2e3440?logo=Jupyter&logoColor=F37626" alt="Jupyter logo" title="Jupyter" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/MySQL-2e3440?logo=MySQL&logoColor=4479A1" alt="MySQL logo" title="MySQL" height="25" /></span>
-&nbsp;
+<!-- <span><img src="https://img.shields.io/badge/Jupyter-2e3440?logo=Jupyter&logoColor=F37626" alt="Jupyter logo" title="Jupyter" height="25" /></span> -->
+<!-- &nbsp; -->
+<!-- <span><img src="https://img.shields.io/badge/MySQL-2e3440?logo=MySQL&logoColor=4479A1" alt="MySQL logo" title="MySQL" height="25" /></span> -->
+<!-- &nbsp; -->
 <span><img src="https://img.shields.io/badge/PowerShell-2e3440?logo=PowerShell&logoColor=5391FE" alt="PowerShell logo" title="PowerShell" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Nodemon-2e3440?logo=Nodemon&logoColor=76D04B" alt="Nodemon logo" title="Nodemon" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Python-2e3440?logo=Python&logoColor=3776AB" alt="Python logo" title="Python" height="25" /></span>
-&nbsp;
+<!-- <span><img src="https://img.shields.io/badge/Python-2e3440?logo=Python&logoColor=3776AB" alt="Python logo" title="Python" height="25" /></span> -->
+<!-- &nbsp; -->
 <!-- <span><img src="https://img.shields.io/badge/C-2e3440?logo=C&logoColor=A8B9CC" alt="C logo" title="C" height="25" /></span> -->
-&nbsp;
+<!-- &nbsp; -->
 <!-- <span><img src="https://img.shields.io/badge/Laravel-2e3440?logo=Laravel&logoColor=FF2D20" alt="Laravel logo" title="Laravel" height="25" /></span> -->
-&nbsp;
+<!-- &nbsp; -->
 <span><img src="https://img.shields.io/badge/jQuery-2e3440?logo=jQuery&logoColor=0769AD" alt="jQuery logo" title="jQuery" height="25" /></span>
 &nbsp;
 
