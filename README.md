@@ -31,7 +31,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/CSS3-2e3440?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/PHP-2e3440?logo=PHP&logoColor=777BB4" alt="PHP logo" title="PHP" height="25" /></span>
+<!-- <span><img src="https://img.shields.io/badge/PHP-2e3440?logo=PHP&logoColor=777BB4" alt="PHP logo" title="PHP" height="25" /></span> -->
 &nbsp;
 <span><img src="https://img.shields.io/badge/git-2e3440?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
 &nbsp;
@@ -67,9 +67,9 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Python-2e3440?logo=Python&logoColor=3776AB" alt="Python logo" title="Python" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/C-2e3440?logo=C&logoColor=A8B9CC" alt="C logo" title="C" height="25" /></span>
+<!-- <span><img src="https://img.shields.io/badge/C-2e3440?logo=C&logoColor=A8B9CC" alt="C logo" title="C" height="25" /></span> -->
 &nbsp;
-<span><img src="https://img.shields.io/badge/Laravel-2e3440?logo=Laravel&logoColor=FF2D20" alt="Laravel logo" title="Laravel" height="25" /></span>
+<!-- <span><img src="https://img.shields.io/badge/Laravel-2e3440?logo=Laravel&logoColor=FF2D20" alt="Laravel logo" title="Laravel" height="25" /></span> -->
 &nbsp;
 <span><img src="https://img.shields.io/badge/jQuery-2e3440?logo=jQuery&logoColor=0769AD" alt="jQuery logo" title="jQuery" height="25" /></span>
 &nbsp;
