@@ -74,7 +74,6 @@
 <span><img src="https://img.shields.io/badge/jQuery-2e3440?logo=jQuery&logoColor=0769AD" alt="jQuery logo" title="jQuery" height="25" /></span>
 &nbsp;
 
-
 <br>
 <h3 align="center">
 <img src="images/kyubey.gif" width="40" align="left"/>
@@ -88,12 +87,12 @@
 <b>⚡ Minhquangdev's Stats</b>
 <br>
 <br>
-<p  dir="auto">
+<p  dir="auto" align="center">
   <a href="#" title="minhquangdev">
-    <img     width="49.5%"  src="https://github-readme-stats.vercel.app/api?username=minhquang2904&show_icons=true&theme=react&border_color=61dafb&hide_border=true&bg_color=2e3440"/>
+    <img width="600"  src="https://github-readme-stats.vercel.app/api?username=minhquang2904&show_icons=true&theme=react&border_color=61dafb&hide_border=true&bg_color=2e3440"/>
   </a>
   <a href="#" title="minhquangdev">
-    <img width="49.5%" src="https://streak-stats.demolab.com/?user=minhquang2904&theme=nord&hide_border=true&ring=e17b5f&fire=e17b5f&currStreakNum=8adeff&sideNums=8adeff&type=svg&sideLabels=8adeff&currStreakLabel=8adeff&dates=white"/>
+    <img width="600"   src="https://streak-stats.demolab.com/?user=minhquang2904&theme=nord&hide_border=true&ring=e17b5f&fire=e17b5f&currStreakNum=8adeff&sideNums=8adeff&type=svg&sideLabels=8adeff&currStreakLabel=8adeff&dates=white"/>
   </a>
 </p>
 <!-- https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=20228100 -->
@@ -103,7 +102,7 @@
 <br>
 <div  align="center">
   <a href="#" title="minhquangdev">
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhquang2904&layout=compact&show_icons=true&theme=react&border_color=61dafb&hide_border=true&bg_color=2e3440&langs_count=14"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhquang2904&layout=compact&show_icons=true&theme=react&border_color=61dafb&hide_border=true&bg_color=2e3440&langs_count=14"/>
   </a>
 </div>
 <div align="center" dir="auto">
@@ -114,8 +113,7 @@
 
 <div align="center" dir="auto">
   <a href="https://open.spotify.com/user/xwbt4pvdcorjnwfyz1nyq2h04" title="minhquangdev">
-    <!-- <img  alt="Spotify"  src="https://spotify-recently-played-readme.vercel.app/api?user=xwbt4pvdcorjnwfyz1nyq2h04&width=550&count=4" /> -->
-    <img  alt="Spotify"  src="https://spotify-github-profile.vercel.app/api/view?uid=xwbt4pvdcorjnwfyz1nyq2h04&cover_image=true&theme=default&bar_color=e3e3e3&bar_color_cover=true" />
+    <img  alt="Spotify"  src="https://spotify-github-profile.vercel.app/api/view?uid=xwbt4pvdcorjnwfyz1nyq2h04&cover_image=true&theme=default&bar_color=e3e3e3&bar_color_cover=true&&show_offline=true" />
   </a>
 </div>
 
@@ -148,7 +146,6 @@
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="Lương Minh Quang-email" />
   </a>
 </div>
-
 
 <h3 align="center">
 <img src="images/book.gif" width="20" align="center"/>
